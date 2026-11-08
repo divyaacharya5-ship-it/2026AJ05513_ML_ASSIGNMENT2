@@ -9,7 +9,7 @@ The objective of this project is to implement, evaluate, and compare multiple ma
 - **Target**: Binary Classification (0 or 1)
 
 ## c. Github Repository Link
-[[Insert Your GitHub Repository URL Here]](https://github.com/divyaacharya5-ship-it/2026AJ05513_ML_ASSIGNMENT2/)
+(https://github.com/divyaacharya5-ship-it/2026AJ05513_ML_ASSIGNMENT2/)
 
 ## d. Models Used & Comparison Table
 
