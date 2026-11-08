@@ -227,6 +227,3 @@ if df is not None:
             st.error(f"Error executing prediction: {e}")
 else:
     st.info("Please upload a test dataset.")
-
-from google.colab import drive
-drive.mount('/content/drive')
